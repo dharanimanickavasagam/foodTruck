@@ -1,0 +1,24 @@
+{
+  "name": "foodtruck",
+  "version": "1.0.0",
+  "description": "backend for the foodTruck app in nodeJS",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.20"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dharanimanickavasagam/foodTruck.git"
+  },
+  "author": "Dharani Mancikavasagam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dharanimanickavasagam/foodTruck/issues"
+  },
+  "homepage": "https://github.com/dharanimanickavasagam/foodTruck#readme"
+}
